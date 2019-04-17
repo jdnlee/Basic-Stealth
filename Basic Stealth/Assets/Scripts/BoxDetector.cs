@@ -5,7 +5,7 @@ public class BoxDetector : MonoBehaviour
 {
  void OnTriggerEnter (Collider other)
     {
-        if (other.gameObject.name == "Character")
+        if (other.gameObject.name == "Player")
         {
             Debug.Log("Found You!");
         }
