@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 487
     width: 879
     height: 244
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 124}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 121
+  controlID: 44
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -265,8 +265,8 @@ MonoBehaviour:
     y: 0
     width: 314
     height: 322
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -425,10 +425,10 @@ MonoBehaviour:
     m_Folders:
     - Assets/Scripts
   m_ViewMode: 1
-  m_StartGridSize: 64
+  m_StartGridSize: 43
   m_LastFolders:
   - Assets/Scripts
-  m_LastFoldersGridSize: -1
+  m_LastFoldersGridSize: 43
   m_LastProjectPath: C:\Users\Jayden\Documents\GitHub\Basic-Stealth\Basic Stealth
   m_LockTracker:
     m_IsLocked: 0
@@ -508,7 +508,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 12}
+      m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -517,7 +517,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
+    m_GridSize: 43
   m_DirectoriesAreaWidth: 167
 --- !u!114 &17
 MonoBehaviour:
@@ -631,9 +631,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -6.3062143, y: 2.4905245, z: -3.5484579}
+    m_Target: {x: -2.8422928, y: 6.295003, z: -3.4374332}
     speed: 2
-    m_Value: {x: -6.3062143, y: 2.4905245, z: -3.5484579}
+    m_Value: {x: -2.8422928, y: 6.295003, z: -3.4374332}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -661,13 +661,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.30269024, y: -0.31261346, z: 0.10582766, w: -0.89412075}
+    m_Target: {x: -0.38069326, y: -0.018087123, z: 0.0074455207, w: -0.9244945}
     speed: 2
-    m_Value: {x: -0.30269024, y: -0.31261346, z: 0.10582766, w: -0.89412075}
+    m_Value: {x: -0.38069326, y: -0.018087123, z: 0.0074455207, w: -0.9244945}
   m_Size:
-    m_Target: 5.472431
+    m_Target: 6.457469
     speed: 2
-    m_Value: 5.472431
+    m_Value: 6.457469
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -708,9 +708,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d2280000
-      m_LastClickedID: 10450
-      m_ExpandedIDs: b2fbffffbe280000
+      m_SelectedIDs: de280000
+      m_LastClickedID: 10462
+      m_ExpandedIDs: b2fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

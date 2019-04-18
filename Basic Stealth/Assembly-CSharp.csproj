@@ -56,6 +56,7 @@
      <Compile Include="Assets\Scripts\BoxDetector.cs" />
      <Compile Include="Assets\Scripts\CharacterController.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
+     <Compile Include="Assets\Scripts\Patrol.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Jayden/Documents/GitHub/Basic-Stealth/Basic Stealth/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
